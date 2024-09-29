@@ -10,7 +10,7 @@ import com.fasterxml.jackson.databind.*;
 * and Deserialization (JSON to Java)
  */
 
-public class json {
+public class Json {
 
     private static ObjectMapper myObjectMapper = defaultObjectMapepr();
 
